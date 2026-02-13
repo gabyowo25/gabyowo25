@@ -1,16 +1,31 @@
-## Hi there 👋
+# Portfolio - Gabriela Ayelén Martínez
 
-<!--
-**gabyowo25/gabyowo25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola 👋 Soy **Gabriela Ayelén Martínez**, Desarrolladora **Full Stack Junior**.
 
-Here are some ideas to get you started:
+Este repositorio contiene mi portfolio personal, donde muestro mis proyectos y habilidades en desarrollo web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Portfolio Online
+🔗 **Ver sitio:** https://gabyowo25.github.io/gabyowo25/
+
+---
+
+## 🛠 Tecnologías utilizadas
+- HTML5
+- CSS3
+- JavaScript
+- PHP
+- SQL
+
+---
+
+## ✨ Sobre mí
+Soy una desarrolladora junior en formación constante, con mentalidad orientada a la resolución de problemas.  
+Me interesa seguir creciendo profesionalmente en desarrollo web, trabajando en equipo y aprendiendo nuevas tecnologías.
+
+---
+
+## 📬 Contacto
+- LinkedIn: https://www.linkedin.com/in/gabriela-ayelen-martinez-068ab0334/
+- GitHub: https://github.com/gabyowo25
